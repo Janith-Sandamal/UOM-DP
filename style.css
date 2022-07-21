@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(21, 128, 200);
+}
+
+li{
+    display: inline-block;
+    
+}
+
+li a{
+    text-decoration: none;
+    padding: 10px;
+    color: aliceblue;
+}
+
+.active{
+    background-color: rgb(21, 42, 200);
+}
+
+li a:hover{
+    background-color: rgb(104, 111, 167);
+}
