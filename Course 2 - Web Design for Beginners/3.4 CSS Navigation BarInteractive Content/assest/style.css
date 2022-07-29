@@ -23,3 +23,8 @@ li a{
 li a:hover{
     background-color: rgb(104, 111, 167);
 }
+
+.logo{
+    /*  */
+    border-radius: 5%;
+}
