@@ -28,3 +28,18 @@ li a:hover{
     /*  */
     border-radius: 5%;
 }
+
+.css-animation{
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    margin-top : 200px;
+    background-color: rgb(255,0,0);
+}
+
+.css-animation:hover{
+    transform: scale(2,2);
+    background-color: blue;
+    /* transform: rotate(75deg); */
+    transform: translate(100px,100px);
+}
